@@ -1,0 +1,28 @@
+#formulario{
+        background-color: blue;
+        color: white;
+}
+#footer{
+        margin-top: 12px;
+        background-color: silver;
+        width: 98%;
+        heigth: auto;
+        overflow: hidden;
+}
+#header{
+    text-align: center;
+    color: green;
+    background-color: pink;
+    width: 90%;
+    margin: 1%;
+    padding: 3%;
+    border-radius: 20%;    
+}
+#mensaje{
+        background-color: white;
+        opacity: 0.8;
+        border-radius: 3px;
+        padding-top: 7px;
+        padding-bottom: 6px;
+        margin-bottom: 10px;
+}
