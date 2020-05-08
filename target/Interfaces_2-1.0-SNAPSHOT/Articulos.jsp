@@ -36,8 +36,8 @@
                     <tr><td>Costo</td>  <td><input type="text" name="costo"/></td></tr>
                     <tr><td>Precio</td> <td><input type="text" name="precio"/></td></tr>
                     <tr><td>Stock</td>  <td><input type="text" name="stock"/></td></tr>
-                    <tr><td>Stock Mínimo</td>   <td><input type="text" name="stockmin"/></td></tr>
-                    <tr><td>Stock Máximo</td>   <td><input type="text" name="stockmax"/></td></tr>
+                    <tr><td>Stock Mínimo</td>   <td><input type="text" name="stockMin"/></td></tr>
+                    <tr><td>Stock Máximo</td>   <td><input type="text" name="stockMax"/></td></tr>
                     <tr>
                         <td><input type="reset" value="BORRAR"/></td>
                         <td><input type="submit" value="GUARDAR"/></td>                
